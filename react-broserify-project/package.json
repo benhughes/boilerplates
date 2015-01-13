@@ -1,7 +1,7 @@
 {
   "name": "product-name",
   "version": "0.0.0",
-  "description": "home-contents =============",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
